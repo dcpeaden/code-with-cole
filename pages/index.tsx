@@ -2,7 +2,7 @@ import { DateTime } from "luxon";
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.scss";
-import Post from "./components/Post/Post";
+import Post from "../components/Post/Post";
 
 export default function Home() {
   return (
